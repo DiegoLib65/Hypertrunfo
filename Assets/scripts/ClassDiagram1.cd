@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Singleton">
+    <Position X="4.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAUAAABAAAAAAAAAAAAAIEA=</HashCode>
+      <FileName>AudioManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Carta">
+    <Position X="16.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IQAARDAAAAQQAAAAAAAAAgACAAIAAgAAAAAAAAEAAEA=</HashCode>
+      <FileName>Carta.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CPUIA">
+    <Position X="12.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAFAAAAgQAAAQAAAAAACAIAAAAAAgAIEAIAAAECIA=</HashCode>
+      <FileName>CPUIA.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Images">
+    <Position X="19.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AKY2AABAACAABAAAgAAAgOUSQAJgQPIJABBAAvkECEA=</HashCode>
+      <FileName>Images.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Player">
+    <Position X="7.25" Y="3" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>gBgADHAAJaAAAgFACCAMAQACIgJAA1ACAIAQCBBgEFA=</HashCode>
+      <FileName>Player.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tela">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAAAEAAAAACAAgEAAAAAAAABAAIIAAA=</HashCode>
+      <FileName>tela.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Config">
+    <Position X="16" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>Config.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GerenciaCartas">
+    <Position X="3.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAFICAAAACEAAkAAAAAAQIAABAIAgAIAAAQAAcEMA=</HashCode>
+      <FileName>GerenciaCartas.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Matriz">
+    <Position X="14.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EEAAQAwAAAQQAAAAAAAAAoACCAAIwAMEEAAAAAIABAA=</HashCode>
+      <FileName>Matriz.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Object">
+    <Position X="13" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

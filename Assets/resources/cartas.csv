@@ -1,0 +1,29 @@
+﻿Personagem/Criatura;Numeração;Força;Velocidade;Inteligência;Resistência;Magia
+Protagonista (Hypertrunfo);A1;80;80;80;80;80
+Mago;A2;10;10;90;10;100
+Sacerdote;A3;10;15;70;15;70
+Paladino;A4;50;40;50;80;50
+Arqueiro;A5;30;70;60;20;10
+Guerreiro;A6;70;40;50;80;10
+Bardo;A7;10;60;50;10;0
+Dragão;B1;90;90;30;100;0
+Elfo;B2;40;70;100;45;75
+Elfo Negro;B3;45;70;95;40;80
+Gigante;B4;100;25;50;95;10
+Anão;B5;60;40;80;70;10
+Sátiro;B6;55;85;60;40;30
+Centauro;B7;70;95;80;60;30
+Ninfa;C1;20;50;85;30;90
+Druida;C2;60;20;80;65;70
+Sereia;C3;30;85;70;30;50
+Fada;C4;5;85;85;5;80
+Elemental;C5;40;30;40;85;95
+Golem;C6;85;10;0;90;40
+Unicórnio;C7;35;100;60;50;50
+Orc;D1;70;60;30;70;0
+Troll;D2;75;50;10;85;0
+Minotauro;D3;80;80;20;80;0
+Morto-Vivo;D4;50;5;5;30;20
+Goblin;D5;30;80;30;30;0
+Demônio;D6;60;30;60;80;80
+Espectro;D7;20;85;40;0;60
